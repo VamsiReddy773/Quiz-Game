@@ -23,13 +23,18 @@ Text File for storing quiz questions and options
 # How to Run:
 Clone this repository.
 Ensure you have Python 3.x installed.
-Install the required libraries (if any) using:
+
+# Install the required libraries (if any) using:
 pip install sqlite3
-Create a questions.txt file with quiz data in the following format:
+
+
+# Create a questions.txt file with quiz data in the following format:
+
 Question?|Option 1|Option 2|Option 3|Option 4|Correct Option Number
+
 # Run the Quiz Game.py script:
 python Quiz\ Game.py
-Example questions.txt format:
 
+# Example questions.txt format:
 What is 2 + 2?|1. 3|2. 4|3. 5|4. 6|2
 What is the capital of France?|1. Berlin|2. Madrid|3. Paris|4. Rome|3
